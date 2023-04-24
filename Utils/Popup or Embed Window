@@ -1,0 +1,1 @@
+javascript:(function()%7Blet x %3D prompt('Enter URL of site to open')%3Bwindow.open(x)%2C %25 20 %25 27 %25 27%2C %25 20 %25 27 top %3D 15%2C left %3D 15%2C scrollbar %3D yes%2C width %3D 500%2C height %3D 600 %25 27)%7D)()%3B
