@@ -12,3 +12,4 @@ These bookmarklets require you to have javascript enabled and wont work if you h
 
 # **HOW TO INSTALL**
 just copy the codes and add them to your bookmarks bar
+![Guide to copying | Click the funny copy button](https://user-images.githubusercontent.com/131699959/234082553-7d86b2b0-5b5a-482c-9bce-e7502a622630.png)
