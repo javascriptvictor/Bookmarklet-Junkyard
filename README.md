@@ -11,9 +11,4 @@ These bookmarklets require you to have javascript enabled and wont work if you h
 
 
 # **HOW TO INSTALL**
-just copy the codes and add them to your bookmarks bar, or check the links below and drag 'em to your bookmarks bar
-
-
-
-# **LIST OF BOOKMARKLETS**
-wip
+just copy the codes and add them to your bookmarks bar
