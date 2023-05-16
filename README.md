@@ -19,8 +19,14 @@ just copy the codes and add them to your bookmarks bar
 * [Show Password](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/Show%20Password)
 * [Popup / Embed window](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/Show%20Password)
 * [Click to Remove element](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/Click%20to%20Remove%20Element)
+* [View page source](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/View%20Page%20Source)
 
 [**Screen Blurring**](https://github.com/javascriptvictor/Bookmarklet-Junkyard/tree/main/Screen%20Blurring)
 * [Full Blur](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Screen%20Blurring/full%20blur)
 * [Unblur](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Screen%20Blurring/unblur)
 * [Slight Blur](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Screen%20Blurring/slight%20blur)
+
+[**Mods**](https://github.com/javascriptvictor/Bookmarklet-Junkyard/tree/main/Mods)
+* [Browser Mod Menu](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Mods/Google%20Modding)
+* [Disguise tab as Google Drive](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Mods/Tab%20Disguise%20as%20Google%20Drive)
+* [Rename Tab](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Mods/Tab%20Rename)
