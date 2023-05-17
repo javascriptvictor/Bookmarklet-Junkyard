@@ -21,6 +21,7 @@ just copy the codes and add them to your bookmarks bar
 * [Popup / Embed window](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/Show%20Password)
 * [Click to Remove element](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/Click%20to%20Remove%20Element)
 * [View page source](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/View%20Page%20Source)
+* [Edit Page contents/text](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Utils/Edit%20Page)
 
 [**Screen Blurring**](https://github.com/javascriptvictor/Bookmarklet-Junkyard/tree/main/Screen%20Blurring)
 * [Full Blur](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Screen%20Blurring/full%20blur)
