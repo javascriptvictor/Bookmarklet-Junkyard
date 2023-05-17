@@ -31,3 +31,11 @@ just copy the codes and add them to your bookmarks bar
 * [Browser Mod Menu](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Mods/Google%20Modding)
 * [Disguise tab as Google Drive](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Mods/Tab%20Disguise%20as%20Google%20Drive)
 * [Rename Tab](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Mods/Tab%20Rename)
+
+[**Hacks**](https://github.com/javascriptvictor/Bookmarklet-Junkyard/tree/main/Hacks)
+* [Edpuzzle Hack Menu](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/Edpuzzle%20Hack%20Menu)
+* [Blooket GUI by Minesraft2](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/Minesraft2's%20Blooket%20GUI)
+* [Prodigy Free Membership](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/Prodigy%20Free%20Membership)
+* [ProdigyX Hack GUI](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/ProdigyX%20Bookmarklet)
+* [Quizizz point per question modifier](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/Quizizz%20Point%20Hack)
+* [YoHoHo.io Unlock All](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/YoHoHo.io%20Unlock%20all)
