@@ -8,6 +8,7 @@ A little project with a bunch of bookmarklets, some made by me and some being fo
 ## **PLEASE NOTE**
 These bookmarklets require you to have javascript enabled and wont work if you have a managed device that has javascript: or javascript//: links blocked/disabled
 
+**ALSO** the Blooket GUI or any scripts that are outdated might not get manually updated in this repo, so check the original one out if you want the up-to-date version!
 
 
 # **HOW TO INSTALL**
