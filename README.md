@@ -40,3 +40,4 @@ just copy the codes and add them to your bookmarks bar
 * [ProdigyX Hack GUI](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/ProdigyX%20Bookmarklet)
 * [Quizizz point per question modifier](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/Quizizz%20Point%20Hack)
 * [YoHoHo.io Unlock All](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/YoHoHo.io%20Unlock%20all)
+* [Quizlet Live Auto Answer](https://github.com/javascriptvictor/Bookmarklet-Junkyard/blob/main/Hacks/Quizlet%20Live%20Auto%20Answer)
